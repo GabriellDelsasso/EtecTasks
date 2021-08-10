@@ -1,0 +1,13 @@
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\bin\Debug\netcoreapp3.1\Exer.exe
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\bin\Debug\netcoreapp3.1\Exer.deps.json
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\bin\Debug\netcoreapp3.1\Exer.runtimeconfig.json
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\bin\Debug\netcoreapp3.1\Exer.runtimeconfig.dev.json
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\bin\Debug\netcoreapp3.1\Exer.dll
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\bin\Debug\netcoreapp3.1\Exer.pdb
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\obj\Debug\netcoreapp3.1\Exer.csproj.AssemblyReference.cache
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\obj\Debug\netcoreapp3.1\Exer.AssemblyInfoInputs.cache
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\obj\Debug\netcoreapp3.1\Exer.AssemblyInfo.cs
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\obj\Debug\netcoreapp3.1\Exer.csproj.CoreCompileInputs.cache
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\obj\Debug\netcoreapp3.1\Exer.dll
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\obj\Debug\netcoreapp3.1\Exer.pdb
+C:\Users\gabriell\Documents\Exercícios\Exer\Exer\obj\Debug\netcoreapp3.1\Exer.genruntimeconfig.cache
